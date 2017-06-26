@@ -55,7 +55,7 @@ msgstr "使用文档的优势在于："
 msgid ""
 "Documents (i.e. objects) correspond to native data types in many "
 "programming languages."
-msgstr ""
+msgstr "文档（比如对象）可以对应许多编程语言当中的原生数据类型"
 
 # 4e5c2d4da2f84c4c9e056e67a0690cd5
 #: ../source/introduction.txt:31
